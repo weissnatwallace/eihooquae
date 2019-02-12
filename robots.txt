@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thahwil.netclickservices.com/sitemap.xml
